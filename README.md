@@ -1,7 +1,3 @@
-Here’s the **merged README** with your original content plus the two new sections you requested:  
-
----
-
 # 🚀 QitOps Playbook – The Future of AI-Driven QA  
 
 Welcome to the **QitOps Playbook**, an open-source initiative to define the **future of intelligent test automation and AI-powered quality engineering**.  
