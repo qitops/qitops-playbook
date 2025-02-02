@@ -2,8 +2,6 @@
 
 Welcome to the **QitOps Playbook**, an open-source initiative to define the **future of intelligent test automation and AI-powered quality engineering**.
 
----
-
 ## **🌟 What is QitOps?**  
 QitOps is a **modern QA principle** that integrates **AI, automation, and risk-based testing** into the software development lifecycle. It redefines how QA operates by embedding quality at every stage—**intelligent, embedded, and continuous.**  
 
